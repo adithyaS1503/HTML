@@ -1,2 +1,2 @@
 # HTML
-All html and related stuff
+HTML and all other web-design related stuff
